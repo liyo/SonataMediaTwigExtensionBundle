@@ -11,7 +11,7 @@
   ],
   "require": {
     "doctrine/orm": "~2.2,>=2.2.3",
-    "symfony/symfony": "~2.6.1",
+    "symfony/symfony": "~2.7",
     "sonata-project/media-bundle": "~2.3"
   },
   "suggest": {
